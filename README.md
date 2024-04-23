@@ -40,5 +40,8 @@ Showcase the YTD sales data based on different dealer regions using a bar chart 
 Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 
 ## Tableau Dashboard
+<a href="https://public.tableau.com/views/CarSalesInsights_17121955873380/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+">Live Dashboard</a>
+
 
 ![Dashboard](https://github.com/satvikakolisetty/Car-Sales-Dashboard-using-Tableau/blob/main/Car%20Sales%20Dashboard.png)
